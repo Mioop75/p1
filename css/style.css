@@ -1,6 +1,6 @@
 @font-face {
   font-family: "et-line";
-  src: url("/fonts/et-line.ttf") format("truetype");
+  src: url("../fonts/et-line.ttf") format("truetype");
   font-style: normal;
   font-weight: normal;
 }
